@@ -50,4 +50,4 @@ You should create one R script called run_analysis.R that does the following.
 4. open a R console and set the working directory to the repository root (use setwd())
 5. source run_analisys.R script (it requires the plyr package): `source('run_analysis.R')`
 
-In the repository root directory you find the file `sensor_avg_by_act_sub.txt` with the tidy data set.
+In the repository root directory you find the file with the tidy data set being generated.
