@@ -9,12 +9,14 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 What you find in this repository
+
 CodeBook.md: information about raw and tidy data set and elaboration made to transform them
 LICENSE: license terms for text and code
 README.md: this file
 run_analysis.R: R script to transform raw data set in a tidy one
 
 How to create the tidy data set
+
 clone this repository: git clone git@github.com:chonghoong/GettingAndCleaningDataCourseProject.git
 download compressed raw data
 unzip raw data and copy the directory UCI HAR Dataset to the cloned repository root directory
