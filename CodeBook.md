@@ -132,32 +132,3 @@ Body Angular Acceleration Magnitude   | TimeDomain.BodyAngularAccelerationMagnit
 For variables derived from mean and standard deviation estimation, the previous labels
 are augmented with the terms "Mean" or "StandardDeviation".
 
-The data set is written to the file sensor_avg_by_act_sub.txt.
-
-References
-----------
-
-1.  <a name="uci-har"/>Human Activity Recognition Using Smartphones Data Set.
-    URL: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>. Accessed 05/21/2014
-2. <a name="har-smart"/>Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz.
-   *Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine*.
-   International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
-3.  <a name="activity-recognition"/>Activity recognition. URL: <http://en.wikipedia.org/wiki/Activity_recognition>.
-    Accessed 05/21/2014
-4. <a name="har-smart2"/>Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz.
-   *A Public Domain Dataset for Human Activity Recognition Using Smartphones*.
-   ESANN 2013 proceedings, European Symposium on Artificial Neural Networks, Computational Intelligence and
-   Machine Learning. Bruges (Belgium), 24-26 April 2013
-5.  <a name="time-domain"/>Time domain. URL: <http://en.wikipedia.org/wiki/Time-domain>.
-    Accessed 05/21/2014
-6.  <a name="hertz"/>Hertz. URL: <http://en.wikipedia.org/wiki/Hertz>. Accessed 05/21/2014
-7.  <a name="jerk"/>Jerk. URL: <http://en.wikipedia.org/wiki/Jerk_(physics)>. Accessed 05/21/2014
-8.  <a name="magnitude"/>Magnitude. URL: <http://en.wikipedia.org/wiki/Magnitude_(mathematics)>. Accessed 05/21/2014
-9.  <a name="euclidean-norm"/>Euclidean norm. URL: <http://en.wikipedia.org/wiki/Norm_(mathematics)#Euclidean_norm>.
-    Accessed 05/21/2014
-10.  <a name="fft"/>Fast Fourier transform. URL: <http://en.wikipedia.org/wiki/Fast_Fourier_Transform>.
-     Accessed 05/21/2014
-11.  <a name="freq-domain"/>Frequency domain. URL: <http://en.wikipedia.org/wiki/Frequency_domain>.
-     Accessed 05/21/2014
-12.  <a name="tidy-dataset"/>Tidy data set. URL: <https://github.com/jtleek/datasharing#the-tidy-data-set>.
-     Accessed 05/21/2014
