@@ -15,7 +15,7 @@ README.md: this file
 run_analysis.R: R script to transform raw data set in a tidy one
 
 How to create the tidy data set
-clone this repository: git clone git@github.com:maurotrb/getting-cleaning-data-2014-project.git
+clone this repository: git clone git@github.com:chonghoong/GettingAndCleaningDataCourseProject.git
 download compressed raw data
 unzip raw data and copy the directory UCI HAR Dataset to the cloned repository root directory
 open a R console and set the working directory to the repository root (use setwd())
